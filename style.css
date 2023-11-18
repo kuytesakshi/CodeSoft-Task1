@@ -1,0 +1,13 @@
+
+.container{
+    margin: 20px;
+    padding: 20px;
+
+   
+}
+.h1{
+    font-family: 'Lobster', sans-serif;
+    color: rgb(30, 140, 167);
+    font-size: 8rem;
+    font-weight: 100;
+}
